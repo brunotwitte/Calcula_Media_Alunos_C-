@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\bin\Debug\Calcula_Media_Alunos.exe.config
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\bin\Debug\Calcula_Media_Alunos.exe
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\bin\Debug\Calcula_Media_Alunos.pdb
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.Form1.resources
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.Properties.Resources.resources
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.exe
+C:\Users\user\source\repos\Calcula_Media_Alunos\Calcula_Media_Alunos\obj\Debug\Calcula_Media_Alunos.pdb

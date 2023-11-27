@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcula_Media_Alunos", "Calcula_Media_Alunos\Calcula_Media_Alunos.csproj", "{0A3D2954-B1D8-447B-B1FC-A00527D160BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3D2954-B1D8-447B-B1FC-A00527D160BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3D2954-B1D8-447B-B1FC-A00527D160BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3D2954-B1D8-447B-B1FC-A00527D160BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3D2954-B1D8-447B-B1FC-A00527D160BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CD1C1B-8FD1-43DC-9A76-1374B02B4B95}
+	EndGlobalSection
+EndGlobal
